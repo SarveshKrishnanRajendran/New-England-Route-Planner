@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ### Running the App
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/NewEnglandRoutePlanner.git
+  https://github.com/SarveshKrishnanRajendran/New-England-Route-Planner
   ```
 - Navigate to the project directory:
   ``` bash
@@ -71,7 +71,7 @@ pip install -r requirements.txt
   ```
 - Run the Streamlit app:
   ```bash
-  streamlit run app.py
+  streamlit run pathfinder_app.py
   ```
 - Open the local URL in your browser
 
